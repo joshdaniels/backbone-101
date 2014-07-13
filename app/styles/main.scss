@@ -4,7 +4,7 @@
 
 // Custom Styles
 body {
-  background: #fafafa;
+  background-image:url("../images/wallpaper.png");
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
 }
@@ -15,12 +15,20 @@ body {
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
-  background-color: #eee;
+  background-image:url("../images/hero_background.png");
   border-radius: 6px;
   padding: 60px;
+  height: 563px;
   h1 {
     font-size: 60px;
     line-height: 1;
     letter-spacing: -1px;
+    font-family:'Slackey';
+    color:#D61236;
+  }
+  .car{
+     font-family:'Michroma';
+font-size: 12px;
+color: whitesmoke;
   }
 }
